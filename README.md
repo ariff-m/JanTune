@@ -19,6 +19,15 @@ JanTune is a mobile-based application designed to detect heart diseases. In addi
 |C006BSY3984|Mario Riva Wisnuaji|Cloud Computing|Universitas Brawijaya|
 |A296BSY2451|Masyura Fanni Ramadhan|Mobile Development|Universitas Pembangunan Nasional Veteran Jawa Timur|
 
+### Documentation 
+
+[API documentation for the Identification feature of the JanTune app, click here.](https://github.com/ariff-m/JanTune/blob/main/Cloud%20Computing/Documentation%20Identification.md)
+
+### Additional Notes:
+- Documentation for user login has not been created yet.
+- To display the results, you also need to run the result identification feature in this directory: [JanTune/Cloud Computing/identification](https://github.com/ariff-m/JanTune/tree/main/Cloud%20Computing/identification)
+- Documentation for the result identification feature has not been provided yet. We apologize for this shortfall, but rest assured, we will complete it in the future.
+
 ### Steps to Replicate
 
 These are the replication steps:
@@ -61,4 +70,8 @@ JWT_SECRET=your_secret_key
 npm start
 ```
 
-Open your browser and visit http://localhost:xxxx in the terminal. If everything runs smoothly, you have successfully replicated this application.
+Open your browser and visit http://localhost:8000 in the terminal. If everything runs smoothly, you have successfully replicated this application.
+
+#### Step 6: Test the API
+
+It is recommended to use Postman for testing. For documentation, refer to the instructions above.
