@@ -1,12 +1,10 @@
 # <p align="center">JanTune - Early Detection Heart Disease App.</p>
-
 <p align="center">
-  <img width="450" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
+  <img width="350" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
 </p>
-
 ### <p align="center">JanTune - Early Detection Heart Disease App.</p>
 
-### Our project team members
+### Our project team members:
 |Student ID|Name|Learning Path|University|
 |-----|-----|-----|-----|
 |A278BSY2273|Muhammad Rafli Aditya. H|Mobile Development|Universitas Negeri Makassar|
