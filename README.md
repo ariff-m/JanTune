@@ -47,7 +47,12 @@ cd backend
 npm install bcrypt dotenv express jsonwebtoken multer mysql2 nodemon
 ```
 
-#### Step 3: Create the database using the database.sql file located in the Cloud Computing directory.
+#### Step 3: Create the Database
+
+To create the database, follow these steps:
+
+1. Download the [database.sql](https://github.com/ariff-m/JanTune/blob/main/Cloud%20Computing/database.sql) file from the Cloud Computing directory.
+2. Execute the SQL commands in the downloaded `database.sql` file to set up the necessary database structure.
 
 #### Step 4: Configure the .env file
 
