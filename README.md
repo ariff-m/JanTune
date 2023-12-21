@@ -1,4 +1,4 @@
-# <p align="center">JanTune - Early Detection Heart Disease App.</p>
+# <p align="center">JanTune</p>
 
 <p align="center">
   <img width="250" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
