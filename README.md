@@ -1,9 +1,10 @@
 # <p align="center">JanTune</p>
 
 <p align="center">
-  <img width="250" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
+  <img width="200" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
 </p>
-### <p align="center">JanTune - Early Detection Heart Disease App.</p>
+
+## <p align="center">JanTune - Early Detection Heart Disease App.</p>
 
 JanTune is a mobile-based application designed to detect heart diseases. In addition, it offers additional features such as providing recommendations for the nearest hospitals based on the user's location. By leveraging this application, we aim to bridge the gap in healthcare services and bring essential health information to the fingertips of all.
 
