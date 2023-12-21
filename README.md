@@ -1,7 +1,9 @@
 # <p align="center">JanTune - Early Detection Heart Disease App.</p>
+
 <p align="center">
-  <img width="350" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
+  <img width="250" src="https://github.com/ariff-m/JanTune/blob/main/asset/JanTune.png" alt="JanTune" style="object-fit: contain;">
 </p>
+
 ### <p align="center">JanTune - Early Detection Heart Disease App.</p>
 
 ### Our project team members:
